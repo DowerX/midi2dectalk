@@ -1,0 +1,7 @@
+*.mid
+*.txt
+.venv
+__pycache__
+.vscode
+Pipfile
+Pipfile.lock
